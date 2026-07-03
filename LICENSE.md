@@ -1,4 +1,4 @@
-#  
+#  bedwars secure Script offers the most advanced bedwars Script, with one-hit kill and custom skins. Perfect for dominating any match.
 
 
 
